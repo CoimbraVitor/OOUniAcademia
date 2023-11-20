@@ -10,7 +10,7 @@ class Usuario:
         self.logado = False
 
     def register(self):
-        with open('usuarios.txt', 'r') as arquivo:
+        with open('./usuarios.txt', 'r') as arquivo:
             linhas = arquivo.readlines()
 
         for linha in linhas:

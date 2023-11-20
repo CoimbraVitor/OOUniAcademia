@@ -2,3 +2,4 @@
 278,admin,usuario,vitor,coimbra
 607,laura,usuario,curcio,linda
 661,davi,usuario,pacheco,xabula
+159,pedro,Usuario,pedro,zoro
