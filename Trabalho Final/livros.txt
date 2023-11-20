@@ -1,0 +1,31 @@
+001,O Senhor dos Anéis,J.R.R. Tolkien
+002,1984,George Orwell
+003,Dom Quixote,Miguel de Cervantes
+004,Cem Anos de Solidão,Gabriel García Márquez
+005,Crime e Castigo,Fiódor Dostoiévski
+006,Orgulho e Preconceito,Jane Austen
+007,O Grande Gatsby,F. Scott Fitzgerald
+008,A Revolução dos Bichos,George Orwell
+009,A Arte da Guerra,Sun Tzu
+010,O Hobbit,J.R.R. Tolkien
+011,Em Busca do Tempo Perdido,Marcel Proust
+012,Hamlet,William Shakespeare
+013,Madame Bovary,Gustave Flaubert
+014,Ulisses,James Joyce
+015,Os Miseráveis,Victor Hugo
+016,Ensaio sobre a Cegueira,José Saramago
+017,A Metamorfose,Franz Kafka
+018,Anna Karenina,Lev Tolstói
+019,Drácula,Bram Stoker
+020,Os Irmãos Karamazov,Fiódor Dostoiévski
+021,A Guerra dos Tronos,George R.R. Martin
+022,A Máquina do Tempo,H.G. Wells
+023,As Aventuras de Sherlock Holmes,Arthur Conan Doyle
+024,Os Três Mosqueteiros,Alexandre Dumas
+025,Dom Casmurro,Machado de Assis
+026,O Alquimista,Paulo Coelho
+027,A Cabana,William P. Young
+028,Moby Dick,Herman Melville
+029,O Retrato de Dorian Gray,Oscar Wilde
+030,O Nome da Rosa,Umberto Eco
+

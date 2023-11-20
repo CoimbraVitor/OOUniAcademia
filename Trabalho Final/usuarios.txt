@@ -1,0 +1,4 @@
+880,admin,usuario,admin,admin
+278,admin,usuario,vitor,coimbra
+607,laura,usuario,curcio,linda
+661,davi,usuario,pacheco,xabula
