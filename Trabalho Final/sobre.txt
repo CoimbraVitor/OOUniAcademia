@@ -1,0 +1,12 @@
+Breve História da Empresa:
+Fundada em 2010, a InovaTech Solutions nasceu da visão compartilhada por um grupo de empreendedores apaixonados por tecnologia.
+Desde então, temos nos dedicado a criar soluções inovadoras que impulsionam o progresso tecnológico.
+Nossa missão é oferecer produtos e serviços de alta qualidade que atendam às necessidades em constante evolução do mercado.
+
+Funcionários da Empresa:
+Vítor de Freitas Coimbra - Desenvolvedor Sênior
+Felipe Ribeiro de Almeida - Analista de Sistemas
+Maicon Oliveira Santos - Testador de Software
+Matheus do Nascimento Rodrigues - Engenheiro de Dados
+Pedro Lucas Portelinha Costa de Sousa - Designer de Interface
+Victor Mendes Vieira - Especialista em Segurança da Informação

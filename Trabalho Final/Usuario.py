@@ -1,6 +1,5 @@
 import random
 
-
 class Usuario:
     def __init__(self, nome, tipo, login, senha):
         self.__codigo = 0
@@ -31,12 +30,11 @@ class Usuario:
             linhas = arquivo.readlines()
         for linha in linhas:
             dados = linha.strip().split(',')
-            print(dados)
             if len(dados) >= 5 and login == dados[3] and senha == dados[4]:
                 print("Login bem-sucedido.")
                 self.logado = True
                 return
-            print("Login falhou. Verifique suas credenciais.")
+        print("Login falhou. Verifique suas credenciais.")
 
     def logout(self):
         if self.logado:
