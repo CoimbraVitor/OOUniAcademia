@@ -3,3 +3,4 @@
 607,laura,usuario,curcio,linda
 661,davi,usuario,pacheco,xabula
 159,pedro,Usuario,pedro,zoro
+283,Teste,Bibliotecário,teste,teste

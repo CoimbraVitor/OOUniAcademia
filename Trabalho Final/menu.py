@@ -4,7 +4,7 @@ from Emprestimos import Emprestimo
 
 def menu_login():
     print("************************")
-    print("\nPrimeiro menu:")
+    print("\nValidação:")
     print("Escolha uma das Opções")
 
     while True:
@@ -30,7 +30,7 @@ def menu_login():
         else:
             print("Opção inválida. Tente novamente.")
 def menu_cliente(usuario):
-    print("\nSegundo menu:")
+    print("\nMenu de Opções:")
     print("1 – Visualizar Empréstimos")
     print("2 – Visualizar Livros")
     print("3 – Sobre")
